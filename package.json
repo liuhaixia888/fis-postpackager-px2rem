@@ -6,10 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/liuhaixia888/fis-postpackager-px2rem.git"
   },
   "author": "haixialiu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "aimee-extend": "^1.0.1"
+  }
 }
