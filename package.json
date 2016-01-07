@@ -1,0 +1,15 @@
+{
+  "name": "fis-postpackager-px2rem",
+  "version": "0.0.1",
+  "description": "用于样式表中px/rem相互转换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/liuhaixia888/fis-postpackager-px2rem.git"
+  },
+  "author": "haixialiu",
+  "license": "ISC"
+}
