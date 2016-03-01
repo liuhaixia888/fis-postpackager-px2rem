@@ -14,6 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "aimee-extend": "^1.0.1",
-    "linco.lab": "^0.0.13"
+    "linco.lab": "^0.4.4"
   }
 }
